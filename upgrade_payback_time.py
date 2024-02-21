@@ -83,6 +83,9 @@ df['payback'] = df['total_price'] / df['extra_profit'] / 24
 
 df_small = df[['factoryName', 'lvl', 'payback', 'total_price']]
 
+df_small = df_small.sort_values(by='payback')
+print(df_small)
+
 
 
 
