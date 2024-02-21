@@ -1,1 +1,0 @@
-https://www.resources-game.ch/resapi/?q=0&f=0&k=40bcfda00f3de0d721891079edcaa91b65cb952ce2736&l=en&d=10
